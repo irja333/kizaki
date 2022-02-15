@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.packName = '© IRJA'
-global.authorName = 'Yotsuba - Bot'
+global.authorName = 'IG : irja_official'
 global.prefix = '#'
 global.mode = 'publik'
 global.ownerNumber = ['687813379','6285878313791']
