@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.packName = '𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳'
+global.packName = '© IRJA'
 global.authorName = 'Yotsuba - Bot'
 global.prefix = '#'
 global.mode = 'publik'
