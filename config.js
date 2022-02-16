@@ -4,7 +4,7 @@ global.packName = '© IRJA'
 global.authorName = 'IG : irja_official'
 global.prefix = '#'
 global.mode = 'publik'
-global.ownerNumber = ['6282275576880','1220206957']
+global.ownerNumber = ['6282275576880','12202006957']
 global.thumb = fs.readFileSync('./thumb.jpeg')
 
 global.APIs = {
