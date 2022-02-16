@@ -11,7 +11,7 @@ global.APIs = {
 	zaki: 'https://api.kizakixd.xyz/api'
 }
 global.APIKeys = {
-	'https://api.kizakixd.xyz/api': 'Your_Apikey' //register buat dapetin api di : https://api.kizakixd.xyz/api
+	'https://api.kizakixd.xyz/api': 'YSzmuRfXMV5Qa7bBeEwaT2g4e' //register buat dapetin api di : https://api.kizakixd.xyz/api
 }
 
 let file = require.resolve(__filename)
