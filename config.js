@@ -2,7 +2,7 @@ const fs = require('fs')
 
 global.packName = '© IRJA'
 global.authorName = 'IG : irja_official'
-global.prefix = '#'
+global.prefix = '.'
 global.mode = 'publik'
 global.ownerNumber = ['6282275576880','12202006957']
 global.thumb = fs.readFileSync('./thumb.jpeg')
